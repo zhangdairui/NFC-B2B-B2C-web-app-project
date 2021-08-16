@@ -21,4 +21,8 @@ NFC网站是一个B2B/B2C的电商网站。功能是为小型零售企业客户�
 
 ![bcxZRr69W4BmdTu](https://i.loli.net/2021/08/17/bcxZRr69W4BmdTu.png)
 
-mp4文件也在仓库中。
+![g56nSD2BdxL1WoE](https://i.loli.net/2021/08/17/g56nSD2BdxL1WoE.png)
+
+![LYSFznOQ6rjZw3t](https://i.loli.net/2021/08/17/LYSFznOQ6rjZw3t.png)
+
+![dg4GYrOZMU7zNHt](https://i.loli.net/2021/08/17/dg4GYrOZMU7zNHt.png)
